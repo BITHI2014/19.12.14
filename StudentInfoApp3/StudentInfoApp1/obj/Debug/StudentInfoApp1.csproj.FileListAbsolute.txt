@@ -1,0 +1,21 @@
+J:\19.12.14\StudentInfoApp1\StudentInfoApp1\bin\Debug\StudentInfoApp1.exe.config
+J:\19.12.14\StudentInfoApp1\StudentInfoApp1\bin\Debug\StudentInfoApp1.exe
+J:\19.12.14\StudentInfoApp1\StudentInfoApp1\bin\Debug\StudentInfoApp1.pdb
+J:\19.12.14\StudentInfoApp1\StudentInfoApp1\obj\Debug\StudentInfoApp1.csprojResolveAssemblyReference.cache
+J:\19.12.14\StudentInfoApp1\StudentInfoApp1\obj\Debug\StudentInfoApp1.StudentInfoUI.resources
+J:\19.12.14\StudentInfoApp1\StudentInfoApp1\obj\Debug\StudentInfoApp1.Properties.Resources.resources
+J:\19.12.14\StudentInfoApp1\StudentInfoApp1\obj\Debug\StudentInfoApp1.csproj.GenerateResource.Cache
+J:\19.12.14\StudentInfoApp1\StudentInfoApp1\obj\Debug\StudentInfoApp1.exe
+J:\19.12.14\StudentInfoApp1\StudentInfoApp1\obj\Debug\StudentInfoApp1.pdb
+J:\19.12.14\StudentInfoApp3\StudentInfoApp1\bin\Debug\StudentInfoApp1.exe.config
+J:\19.12.14\StudentInfoApp3\StudentInfoApp1\obj\Debug\StudentInfoApp1.exe
+J:\19.12.14\StudentInfoApp3\StudentInfoApp1\obj\Debug\StudentInfoApp1.pdb
+J:\19.12.14\StudentInfoApp3\StudentInfoApp1\bin\Debug\StudentInfoApp1.exe
+J:\19.12.14\StudentInfoApp3\StudentInfoApp1\bin\Debug\StudentInfoApp1.pdb
+J:\19.12.14\StudentInfoApp3\StudentInfoApp1\obj\Debug\StudentInfoApp1.csprojResolveAssemblyReference.cache
+J:\19.12.14\StudentInfoApp3\StudentInfoApp1\obj\Debug\StudentInfoApp1.StudentInfoUI.resources
+J:\19.12.14\StudentInfoApp3\StudentInfoApp1\obj\Debug\StudentInfoApp1.Properties.Resources.resources
+J:\19.12.14\StudentInfoApp3\StudentInfoApp1\obj\Debug\StudentInfoApp1.csproj.GenerateResource.Cache
+E:\FTFL DHAKA\9th day\19.12.14\StudentInfoApp3\StudentInfoApp1\bin\Debug\StudentInfoApp1.exe.config
+E:\FTFL DHAKA\9th day\19.12.14\StudentInfoApp3\StudentInfoApp1\obj\Debug\StudentInfoApp1.exe
+E:\FTFL DHAKA\9th day\19.12.14\StudentInfoApp3\StudentInfoApp1\obj\Debug\StudentInfoApp1.pdb

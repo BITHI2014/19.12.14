@@ -1,0 +1,9 @@
+J:\19.12.14\StudentTypeApp\StudentTypeApp\bin\Debug\StudentTypeApp.exe.config
+J:\19.12.14\StudentTypeApp\StudentTypeApp\bin\Debug\StudentTypeApp.exe
+J:\19.12.14\StudentTypeApp\StudentTypeApp\bin\Debug\StudentTypeApp.pdb
+J:\19.12.14\StudentTypeApp\StudentTypeApp\obj\Debug\StudentTypeApp.csprojResolveAssemblyReference.cache
+J:\19.12.14\StudentTypeApp\StudentTypeApp\obj\Debug\StudentTypeApp.exe
+J:\19.12.14\StudentTypeApp\StudentTypeApp\obj\Debug\StudentTypeApp.pdb
+E:\FTFL DHAKA\9th day\19.12.14\StudentTypeApp\StudentTypeApp\bin\Debug\StudentTypeApp.exe.config
+E:\FTFL DHAKA\9th day\19.12.14\StudentTypeApp\StudentTypeApp\obj\Debug\StudentTypeApp.exe
+E:\FTFL DHAKA\9th day\19.12.14\StudentTypeApp\StudentTypeApp\obj\Debug\StudentTypeApp.pdb

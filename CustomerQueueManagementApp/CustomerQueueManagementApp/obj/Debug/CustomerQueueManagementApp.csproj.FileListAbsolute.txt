@@ -1,0 +1,12 @@
+J:\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+J:\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe
+J:\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.pdb
+J:\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csprojResolveAssemblyReference.cache
+J:\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.CustomerQueueUI.resources
+J:\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.Properties.Resources.resources
+J:\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.csproj.GenerateResource.Cache
+J:\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+J:\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
+E:\FTFL DHAKA\9th day\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\bin\Debug\CustomerQueueManagementApp.exe.config
+E:\FTFL DHAKA\9th day\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.exe
+E:\FTFL DHAKA\9th day\19.12.14\CustomerQueueManagementApp\CustomerQueueManagementApp\obj\Debug\CustomerQueueManagementApp.pdb
